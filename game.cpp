@@ -1,4 +1,0 @@
-#include <iosmainp>
-
-int main(){
-}
